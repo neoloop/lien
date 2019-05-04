@@ -32,7 +32,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Virtualisation Jeedom: Installer Jeedom sur une Debian 9 sous Esxi VM
 https://www.domo-blog.fr/virtualisation-installer-jeedom-debian-9-esxi-vm/
 
+### Créer une clé USB d’installation pour VMware ESXI
+Avant de détailler le processus de mise à jour d’ESXI dans sa version gratuite, voici un rapide mémo vous permettant de créer une clé USB d’installation pour VMware ESXI.
 
+Comme indiqué dans un article précédent, il vous sera nécessaire de télécharger un petit utilitaire dénommé Rufus. Une fois la dernière version de Rufus téléchargée, allez sur le site de VMware et récuperez l’iso d’ESXI.
+
+Vous pouvez maintenant brancher votre clef USB et lancer Rufus
 
 ### Support or Contact
 
