@@ -39,7 +39,7 @@ Comme indiqué dans un article précédent, il vous sera nécessaire de téléch
 
 Vous pouvez maintenant brancher votre clef USB et lancer Rufus
 
-http://docs.google.com/document/d/e/2PACX-1vT2aFzv_Eb-7ZdZm1vIniMXHG8IHCNGATWBVD7Rrnh9_cV7mrxxg5eUg1kKOZTvjxx8BU94HLAUj_1t/pub
+[tuto](https://docs.google.com/document/d/e/2PACX-1vT2aFzv_Eb-7ZdZm1vIniMXHG8IHCNGATWBVD7Rrnh9_cV7mrxxg5eUg1kKOZTvjxx8BU94HLAUj_1t/pub)
 
 ### Support or Contact
 
