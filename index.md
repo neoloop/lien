@@ -39,6 +39,8 @@ Comme indiqué dans un article précédent, il vous sera nécessaire de téléch
 
 Vous pouvez maintenant brancher votre clef USB et lancer Rufus
 
+https://docs.google.com/document/d/e/2PACX-1vT2aFzv_Eb-7ZdZm1vIniMXHG8IHCNGATWBVD7Rrnh9_cV7mrxxg5eUg1kKOZTvjxx8BU94HLAUj_1t/pub
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
